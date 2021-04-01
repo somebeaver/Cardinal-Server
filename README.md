@@ -1,3 +1,3 @@
-# Cardinal Releases
+# Cardinal Server Releases
 
-This repo hosts releases for Cardinal apps. The website (cardinalapp.xyz) links here, and this is the only official place to download Cardinal releases.
+The official releases for Cardinal Server.
