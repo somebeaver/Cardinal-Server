@@ -1,6 +1,6 @@
 # Cardinal Server for Desktop
 
-### Official releases for Cardinal Server. https://cardinalapp.xyz
+### Official releases for Cardinal Server. https://cardinalapps.xyz
 
 Click on the latest releases under "Releases" on the right and download the appropiate installer.
 
