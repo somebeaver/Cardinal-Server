@@ -1,4 +1,4 @@
-# Cardinal Server for Desktop
+# Cardinal Server
 
 #### Official releases for Cardinal Server. [cardinalapps.xyz/en/cardinal-server](https://cardinalapps.xyz/en/cardinal-server)
 
