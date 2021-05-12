@@ -1,6 +1,6 @@
 # Cardinal Server for Desktop
 
-#### Official releases for Cardinal Server. [cardinalapps.xyz/cardinal-server](https://cardinalapps.xyz/cardinal-server)
+#### Official releases for Cardinal Server. [cardinalapps.xyz/en/cardinal-server](https://cardinalapps.xyz/en/cardinal-server)
 
 ## How To Download
 
